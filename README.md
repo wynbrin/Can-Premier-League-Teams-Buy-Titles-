@@ -11,5 +11,5 @@ The data scrapped from transfermarkt.com using Scraper extension on Google Chrom
 ## WB_PLViz.twb
 The visualizations in their original Tableau format, showing which data elements I chose to present.
 
-## WB_PLViz.ppt
+## WB_PLViz.pptx
 The exported Powerpoint version of the original project
