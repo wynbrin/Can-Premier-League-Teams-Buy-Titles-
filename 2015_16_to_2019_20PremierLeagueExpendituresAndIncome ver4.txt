@@ -1,0 +1,16 @@
+Club	Expenditure	Arrivals	Income	Departures	Balance	League Position 15-16	Points 15-16	League Position 16-17	Points 16-17	League Position 17-18	Points 17-18	League Position 18-19	Points 18-19	Current League Position 19-20	Avg. Position since 15-16
+Manchester City	"$1,000.08 "	55	$348.96 	121	-$734.10	4	66	3	78	1	100	1	98	2	2.2
+Manchester United	$919.71 	33	$327.09 	67	-$592.63	5	66	6	69	2	81	6	66	5	4.8
+Chelsea FC	$811.36 	43	$669.78 	149	-$141.58	10	50	1	93	5	70	3	72	4	4.6
+Liverpool FC	$630.17 	39	$498.44 	93	-$131.72	8	60	4	76	4	75	2	97	1	3.8
+Everton FC	$613.58 	49	$338.06 	100	-$275.52	11	47	7	61	8	49	8	54	12	9.2
+Arsenal FC	$582.93 	35	$255.53 	72	-$327.40	2	71	5	75	6	63	5	70	9	5.4
+Leicester City	$495.44 	45	$341.22 	92	-$154.22	1	81	12	44	9	47	9	52	3	6.8
+Tottenham Hotspur	$466.95 	30	$336.63 	58	-$130.32	3	70	2	86	3	77	4	71	8	4
+West Ham United	$444.51 	61	$216.46 	88	-$228.05	7	62	11	45	13	42	10	52	16	11.4
+Newcastle United	$386.44 	54	$236.22 	103	-$150.22	18	37	*	*	10	44	13	45	13	13.5
+Southampton FC	$342.21 	38	$314.93 	69	-$27.28	6	63	8	46	17	36	16	39	14	12.2
+Watford FC	$333.83 	75	$180.21 	118	-$153.62	13	45	17	40	14	41	11	50	17	14.4
+AFC Bournemouth	$303.22 	47	$88.92 	94	-$214.29	16	42	9	46	12	44	14	45	18	13.8
+Crystal Palace	$218.68 	46	$126.17 	91	-$92.51	15	42	14	41	11	44	12	49	11	12.6
+Burnley FC	$175.39 	45	$102.80 	87	-$72.59	*	*	16	40	7	54	15	40	10	12
